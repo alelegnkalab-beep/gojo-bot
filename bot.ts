@@ -1,4 +1,4 @@
-const BOT_TOKEN = "የቦትህን_TOKEN_እዚህ_አስገባ";
+const BOT_TOKEN = ("8903061520:AAGgHuOiUelE3HHN82gHnRjizLEe4Q3K1MQ")
 const WEB_APP_URL = "የዌብሳይትህን_ሊንክ_እዚህ_አስገባ";
 const PHOTO_URL = "የ3D_ምስሉን_ሊንክ_እዚህ_አስገባ";
 
