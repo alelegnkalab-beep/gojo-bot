@@ -1,1 +1,10 @@
-c
+{
+  "functions": {
+    "bot.js": {
+      "runtime": "@vercel/node@3.0.0"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/bot.js" }
+  ]
+}
