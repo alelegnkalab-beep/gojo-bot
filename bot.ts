@@ -1,5 +1,5 @@
 const BOT_TOKEN = ("8903061520:AAGgHuOiUelE3HHN82gHnRjizLEe4Q3K1MQ")
-const WEB_APP_URL = "የዌብሳይትህን_ሊንክ_እዚህ_አስገባ";
+const WEB_APP_URL = ("https://gojo.alelegnkalab.workers.dev/")
 const PHOTO_URL = "የ3D_ምስሉን_ሊንክ_እዚህ_አስገባ";
 
 Deno.serve(async (req) => {
